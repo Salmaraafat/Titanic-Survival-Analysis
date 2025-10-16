@@ -52,7 +52,7 @@ Wealth mattered: 1st class passengers had priority access to lifeboats.
 Traveling with family helped: Family presence increased survival rates.
 
 These findings align with historical accounts of the Titanic disaster.
----
+
 ## 🖼️ Visualizations
 
 ### 🔹 Class vs Survival
@@ -67,7 +67,7 @@ These findings align with historical accounts of the Titanic disaster.
 ### 🔹 Correlation Heatmap
 ![Heatmap](https://raw.githubusercontent.com/Salmaraafat/Titanic-Survival-Analysis/main/Visualization/heatmap.png)
 
----
+
 🚀 Next Steps
 
 Deploy an interactive dashboard (Streamlit / Tableau / Power BI).
