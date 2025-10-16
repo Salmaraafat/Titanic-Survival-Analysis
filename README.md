@@ -26,7 +26,7 @@
 ## 🖼️ Visualizations
 
 ### 🔹 Class vs Survival
-![Passenger Class vs Survival](countplot.png)
+![Passenger Class vs Survival]([countplot.png](https://github.com/Salmaraafat/Titanic-Survival-Analysis/blob/main/Visualization/countplot.png))
 
 ### 🔹 Gender vs Survival
 ![Gender vs Survival](barplot.png)
