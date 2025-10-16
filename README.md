@@ -52,7 +52,7 @@ Wealth mattered: 1st class passengers had priority access to lifeboats.
 Traveling with family helped: Family presence increased survival rates.
 
 These findings align with historical accounts of the Titanic disaster.
----
+
 ## 🖼️ Visualizations
 
 ### 🔹 Class vs Survival
