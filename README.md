@@ -26,16 +26,16 @@
 ## 🖼️ Visualizations
 
 ### 🔹 Class vs Survival
-![Passenger Class vs Survival]([countplot.png](https://github.com/Salmaraafat/Titanic-Survival-Analysis/blob/main/Visualization/countplot.png))
+![Class vs Survival](https://raw.githubusercontent.com/Salmaraafat/Titanic-Survival-Analysis/main/Visualization/countplot.png)
 
 ### 🔹 Gender vs Survival
-![Gender vs Survival](barplot.png)
+![Gender vs Survival](https://raw.githubusercontent.com/Salmaraafat/Titanic-Survival-Analysis/main/Visualization/barplot.png)
 
 ### 🔹 Age Distribution
-![Age Distribution Histogram](histplot.png)
+![Age Distribution](https://raw.githubusercontent.com/Salmaraafat/Titanic-Survival-Analysis/main/Visualization/histplot.png)
 
 ### 🔹 Correlation Heatmap
-![Correlation Heatmap](heatmap.png)
+![Heatmap](https://raw.githubusercontent.com/Salmaraafat/Titanic-Survival-Analysis/main/Visualization/heatmap.png)
 
 ---
 
