@@ -8,7 +8,7 @@ This project analyzes the famous Titanic dataset (from Kaggle) to explore the fa
 The analysis covers data cleaning, exploratory data analysis (EDA), statistical testing, feature engineering, and visualization to extract meaningful insights.
 
 A simple predictive model (Logistic Regression) is also implemented to demonstrate survival prediction.
----
+
 ## 🎯 Objectives
 
 - Explore the Titanic dataset and understand passenger demographics.
@@ -18,13 +18,13 @@ A simple predictive model (Logistic Regression) is also implemented to demonstra
 - Create new **engineered features** (family size, age groups, travel status).
 - Summarize **key findings** with clear, business-friendly insights.
 - Build a **basic predictive model** to estimate survival outcomes.
-  ---
+
 ## 🧰 Tools Used
 
 - Python (Jupyter Notebook)
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - Dataset: Titanic - Machine Learning from Disaster ([Kaggle Link](https://www.kaggle.com/competitions/titanic))
----
+
 ## 🔍 Key Analysis & Insights
 
 - **Gender**: Females had a survival rate of ~74%, compared to ~19% for males.  
@@ -42,7 +42,7 @@ A simple predictive model (Logistic Regression) is also implemented to demonstra
   - Age distribution vs survival
   - Correlation heatmap of key variables
     
----
+
 ## ✅ Conclusions
 
 Women and children first: Gender and age were crucial in survival chances.
